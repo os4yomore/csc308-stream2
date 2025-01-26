@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/Operating Systems/exercise2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _add, symObjAddr: 0x0, symBinAddr: 0x100003B8C, symSize: 0x90 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _add, symObjAddr: 0x0, symBinAddr: 0x100003B8C, symSize: 0x90 }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _sub, symObjAddr: 0x90, symBinAddr: 0x100003C1C, symSize: 0x90 }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: _mul, symObjAddr: 0x120, symBinAddr: 0x100003CAC, symSize: 0x90 }
+  - { offsetInCU: 0x10D, offset: 0x10D, size: 0x8, addend: 0x0, symName: _div, symObjAddr: 0x1B0, symBinAddr: 0x100003D3C, symSize: 0xB4 }
+  - { offsetInCU: 0x151, offset: 0x151, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x264, symBinAddr: 0x100003DF0, symSize: 0xD0 }
+...

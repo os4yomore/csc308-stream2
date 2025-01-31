@@ -1,0 +1,11 @@
+/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/deps/libwyz-48e83df8d0eb4dd5.rmeta: /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/lib.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/bidi.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/comu.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/fmt.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/range.rs
+
+/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/deps/libwyz-48e83df8d0eb4dd5.rlib: /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/lib.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/bidi.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/comu.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/fmt.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/range.rs
+
+/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/deps/wyz-48e83df8d0eb4dd5.d: /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/lib.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/bidi.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/comu.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/fmt.rs /Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/range.rs
+
+/Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/lib.rs:
+/Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/bidi.rs:
+/Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/comu.rs:
+/Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/fmt.rs:
+/Users/rutholotu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wyz-0.5.1/src/range.rs:

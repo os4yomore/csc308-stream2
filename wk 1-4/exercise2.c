@@ -60,7 +60,7 @@ int div()
   scanf("%i", &b);
   if (b == 0) {printf("no no no chica");}
   sum = a / b;
-  printf("Your sum is:%i", sum);
+  printf("Your answer is:%i", sum);
   return 0;
 
 

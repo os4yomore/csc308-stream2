@@ -1,0 +1,203 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on crate metadata
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-bios-stage-4 v0.11.9
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-bios-stage-2 v0.11.9
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-bios-boot-sector v0.11.9
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-bios-stage-3 v0.11.9
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+  Installing bootloader-x86_64-uefi v0.11.9
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+warning: package `atomic-polyfill v0.1.11` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+warning: package `critical-section v1.1.1` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+warning: package `atomic-polyfill v0.1.11` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+warning: package `critical-section v1.1.1` in Cargo.lock is yanked in registry `crates-io`, consider running without --locked
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Updating crates.io index
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   Compiling compiler_builtins v0.1.143
+   Compiling compiler_builtins v0.1.143
+   Compiling core v0.0.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/core)
+   Compiling bootloader-x86_64-bios-stage-3 v0.11.9
+   Compiling core v0.0.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/core)
+   Compiling bootloader-x86_64-bios-boot-sector v0.11.9
+   Compiling compiler_builtins v0.1.143
+   Compiling core v0.0.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/core)
+   Compiling bootloader-x86_64-bios-stage-2 v0.11.9
+   Compiling compiler_builtins v0.1.143
+   Compiling core v0.0.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/core)
+   Compiling compiler_builtins v0.1.143
+   Compiling proc-macro2 v1.0.63
+   Compiling core v0.0.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/core)
+   Compiling proc-macro2 v1.0.63
+   Compiling unicode-ident v1.0.10
+   Compiling quote v1.0.29
+   Compiling quote v1.0.29
+   Compiling autocfg v1.1.0
+   Compiling unicode-ident v1.0.10
+   Compiling autocfg v1.1.0
+   Compiling lock_api v0.4.10
+   Compiling semver v1.0.17
+   Compiling lock_api v0.4.10
+   Compiling semver v1.0.17
+   Compiling syn v1.0.109
+   Compiling syn v2.0.23
+   Compiling rustversion v1.0.13
+   Compiling syn v2.0.23
+   Compiling serde v1.0.166
+   Compiling rustversion v1.0.13
+   Compiling rustc_version v0.4.0
+   Compiling serde v1.0.166
+   Compiling heapless v0.7.16
+   Compiling rustc_version v0.4.0
+   Compiling bootloader_api v0.11.9
+   Compiling bootloader_api v0.11.9
+   Compiling heapless v0.7.16
+   Compiling bootloader-x86_64-bios-stage-4 v0.11.9
+   Compiling serde_derive v1.0.166
+   Compiling serde_derive v1.0.166
+   Compiling ptr_meta_derive v0.2.0
+   Compiling uefi-macros v0.11.0
+   Compiling rustc-std-workspace-core v1.99.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling byteorder v1.4.3
+   Compiling bootloader-x86_64-bios-common v0.11.9
+   Compiling mbr-nostd v0.1.0
+   Compiling rustc-std-workspace-core v1.99.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling rustc-std-workspace-core v1.99.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling noto-sans-mono-bitmap v0.1.6
+    Finished `stage-1` profile [optimized] target(s) in 1m 14s
+  Installing /Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin/bootloader-x86_64-bios-boot-sector
+   Installed package `bootloader-x86_64-bios-boot-sector v0.11.9` (executable `bootloader-x86_64-bios-boot-sector`)
+warning: be sure to add `/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin` to your PATH to be able to run the installed binaries
+   Compiling bootloader-x86_64-bios-common v0.11.9
+   Compiling rustc-std-workspace-core v1.99.0 (/Users/rutholotu/.rustup/toolchains/nightly-aarch64-apple-darwin/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling scopeguard v1.1.0
+   Compiling rand_core v0.6.4
+   Compiling bitflags v1.3.2
+   Compiling bit_field v0.10.2
+   Compiling volatile v0.4.6
+   Compiling byteorder v1.4.3
+   Compiling bitflags v2.3.3
+   Compiling hash32 v0.2.1
+   Compiling x86_64 v0.14.13
+   Compiling spin v0.9.8
+   Compiling stable_deref_trait v1.2.0
+   Compiling conquer-util v0.3.0
+   Compiling log v0.4.19
+   Compiling zero v0.1.3
+   Compiling xmas-elf v0.8.0
+   Compiling conquer-once v0.3.2
+   Compiling spinning_top v0.2.5
+   Compiling scopeguard v1.1.0
+   Compiling raw-cpuid v10.7.0
+   Compiling rand v0.8.5
+   Compiling bit_field v0.10.2
+   Compiling bitflags v1.3.2
+   Compiling rand_core v0.6.4
+   Compiling byteorder v1.4.3
+   Compiling volatile v0.4.6
+   Compiling bitflags v2.3.3
+   Compiling x86_64 v0.14.13
+   Compiling rand_hc v0.3.2
+   Compiling ryu v1.0.14
+   Compiling usize_conversions v0.2.0
+   Compiling noto-sans-mono-bitmap v0.2.0
+    Finished `stage-2` profile [optimized] target(s) in 1m 21s
+  Installing /Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin/bootloader-x86_64-bios-stage-2
+   Installed package `bootloader-x86_64-bios-stage-2 v0.11.9` (executable `bootloader-x86_64-bios-stage-2`)
+warning: be sure to add `/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin` to your PATH to be able to run the installed binaries
+   Compiling rsdp v2.0.0
+   Compiling bootloader-x86_64-bios-common v0.11.9
+   Compiling hash32 v0.2.1
+   Compiling spin v0.9.8
+   Compiling zero v0.1.3
+   Compiling log v0.4.19
+   Compiling stable_deref_trait v1.2.0
+   Compiling conquer-util v0.3.0
+   Compiling xmas-elf v0.8.0
+   Compiling conquer-once v0.3.2
+   Compiling rand_hc v0.3.2
+   Compiling uart_16550 v0.2.18
+   Compiling rand v0.8.5
+   Compiling raw-cpuid v10.7.0
+   Compiling ucs2 v0.3.2
+   Compiling spinning_top v0.2.5
+   Compiling ryu v1.0.14
+   Compiling ptr_meta v0.2.0
+   Compiling noto-sans-mono-bitmap v0.2.0
+   Compiling usize_conversions v0.2.0
+   Compiling bootloader-boot-config v0.11.9
+   Compiling uart_16550 v0.2.18
+   Compiling serde-json-core v0.5.0
+   Compiling bootloader-x86_64-common v0.11.9
+   Compiling uefi v0.20.0
+   Compiling bootloader-boot-config v0.11.9
+   Compiling serde-json-core v0.5.0
+   Compiling bootloader-x86_64-common v0.11.9
+    Finished `stage-4` profile [optimized + debuginfo] target(s) in 1m 29s
+  Installing /Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin/bootloader-x86_64-bios-stage-4
+   Installed package `bootloader-x86_64-bios-stage-4 v0.11.9` (executable `bootloader-x86_64-bios-stage-4`)
+warning: be sure to add `/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin` to your PATH to be able to run the installed binaries
+   Compiling bootloader-x86_64-uefi v0.11.9
+    Finished `release` profile [optimized] target(s) in 1m 31s
+warning: the following packages contain code that will be rejected by a future version of Rust: compiler_builtins v0.1.143
+note: to see what the problems were, use the option `--future-incompat-report`, or run `cargo report future-incompatibilities --id 1`
+  Installing /Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin/bootloader-x86_64-uefi.efi
+   Installed package `bootloader-x86_64-uefi v0.11.9` (executable `bootloader-x86_64-uefi.efi`)
+warning: be sure to add `/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin` to your PATH to be able to run the installed binaries
+    Finished `stage-3` profile [optimized + debuginfo] target(s) in 1m 51s
+  Installing /Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin/bootloader-x86_64-bios-stage-3
+   Installed package `bootloader-x86_64-bios-stage-3 v0.11.9` (executable `bootloader-x86_64-bios-stage-3`)
+warning: be sure to add `/Users/rutholotu/Desktop/Documents/school-stuff/Year-3/csc308-stream2/os_with_bootloader/target/debug/build/bootloader-e206470e281478a0/out/bin` to your PATH to be able to run the installed binaries
